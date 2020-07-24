@@ -13,6 +13,10 @@ h1, h2, h3, h4, h5, h6  {
     font-weight: 700;
 }
 
+.cryptedmail:after {
+content: attr(data-name) "@" attr(data-domain) "." attr(data-tld);
+}
+
 a {
     color: darken($theme-color, 15%);
     &:hover {
