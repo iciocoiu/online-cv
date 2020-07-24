@@ -2,9 +2,19 @@
   <ul class="list-unstyled contact-list">
 
     {% if sidebar.email %}
+    <!--
     <li class="email"><i class="fas fa-envelope"></i>
       <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
     </li>
+    -->
+    .cryptedmail:after {
+  content: attr(data-name) "@" attr(data-domain) "." attr(data-tld);
+}
+    <a href="#" class="cryptedmail"
+    data-name="info"
+    data-domain="example"
+    data-tld="org"
+    onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld; return false;"></a>
     {% endif %}
 
     {% if sidebar.phone %}
