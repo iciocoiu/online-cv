@@ -126,9 +126,6 @@ skills:
       - name: Amazon AWS, Microsoft Azure
         level: 98%
 
-      - name: Networking, Routing, HA, Traffic Shaper, OpenVPN, NAT, Proxy, Tunnels, PPPoE, VLANs, VTP, STP, RIP, OSPF, ACL, CDP, TFTP, SPAN
-        level: 95%
-
       - name: VMware vSphere ESXi, vCenter
         level: 98%
 
