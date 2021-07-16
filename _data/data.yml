@@ -63,17 +63,22 @@ education:
       #     - Bullet point
       #     - Bullet point
 experiences:
+    - role: Automation Engineer
+      time: 2020 - Present
+      company: Luxoft - a DXC Technology Company, Bucharest
+      details: |
+        Luxoft - Cross Industry Solutions Business Unit, Bucharest - designing and developing a solution for automating client's manual processes.
     - role: Computer Engineer
-      time: 2018 - Present
+      time: (2y)2018 - 2020
       company: Luxoft, Bucharest
       details: |
-        Luxoft - Digital Engineering Business Unit, București - providing support for
+        Luxoft - Digital Engineering Business Unit, Bucharest - providing support for
         Spirent Avalanche and Spirent CyberFlood solutions, as part of EMEA Backline team.
     - role: Technical Engineer
       time: (1y 2m)2017 - 2018
       company: AtoS, Timisoara
       details: |
-        Big Data and Security department, Timișoara - administration and
+        Big Data and Security department, Timisoara - administration and
         management of High Performance Computing infrastructure for big automotive client.
 projects:
     title: Projects
