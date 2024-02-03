@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Iulian Ciocoiu
-    tagline: Automation Engineer
+    tagline: Site Reliability Engineer
     avatar: iulian-ciocoiu.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -21,7 +21,7 @@ sidebar:
     website: cios.ro #do not add http://
     linkedin: iciocoiu
     github: iciocoiu
-    telegram: # add your nickname without '@' sign
+    telegram: iciocoiu # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: #'@webjeda'
