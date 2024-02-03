@@ -63,17 +63,34 @@ education:
       #     - Bullet point
       #     - Bullet point
 experiences:
-    - role: Automation Engineer
-      time: 2020 - Present
-      company: Luxoft - a DXC Technology Company, Bucharest
+    - role: Site Reliability Engineer 
+      time: 2021 - Present
+      company: Luxoft | Palo Alto Networks 
       details: |
-        Luxoft - Cross Industry Solutions Business Unit, Bucharest - designing and developing a solution for automating client's manual processes.
-    - role: Computer Engineer
+        Design and enhance software architecture to improve scalability, service reliability, capacity, and performance.
+        Write automation code for provisioning and operating infrastructure at massive scale.
+        Work with development teams to make sure the applications fit within the infrastructure and scalability/reliability is designed and implemented from the grounds up.
+        Work with QA on building pipelines and automation for delivering and deploying applications to production.
+        Participate in the occasional on-call rotation supporting the infrastructure.
+        Roll up the sleeves to solve incidents, formulate theories and test your hypothesis, and narrow down possibilities to find the root cause.
+        Skills: FWaaS · NGFW · PAN-OS · Python · SQL · AWS · GCP
+    - role: Software Engineer
+      time: (1y 2m)2020 - 2021
+      company: Luxoft | Telenor Sverige
+      details: |
+        Developing solution from scratch for automating manual processes to reduce IT team's workload.
+        Skills: Python · Ansible · REST API · MongoDB · Object-Oriented Programming (OOP)
+    - role: Application and Security Engineer 
       time: (2y)2018 - 2020
-      company: Luxoft, Bucharest
+      company: Luxoft | Spirent Communications
       details: |
-        Luxoft - Digital Engineering Business Unit, Bucharest - providing support for
-        Spirent Avalanche and Spirent CyberFlood solutions, as part of EMEA Backline team.
+        Responsible for supporting enterprise application and security testing solutions for customers in EMEA regions including:
+        Communicate technical processes and concepts to customers of varying skill levels.
+        Handling incoming service requests from customers, distributors and internal team.
+        Perform analysis, troubleshooting and debugging Spirent and third party networking equipments and applications.
+        Coordinate situation management events by delegating and redirecting cases and calls to R&D engineers and product managers regarding bugs and follow-up to make sure fixes are implemented to support customer's testing requirements.
+        Complete and maintain records of customer issues, product defect, etc.
+        Skills: Spirent Avalanche · Spirent CyberFlood · Spirent Velocity · Cisco Certified Entry Networking Technician (CCENT) · Linux
     - role: Technical Engineer
       time: (1y 2m)2017 - 2018
       company: AtoS, Timisoara
